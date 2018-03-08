@@ -3,6 +3,9 @@
     "version": "0.1.9",
     "main": "index.js",
     "description": "Integração PagSeguro UOL com checkout transparente",
+    "scripts": {
+        "lint": "node_modules/.bin/semistandard"
+    },
     "keywords": [
         "pagseguro",
         "node"
